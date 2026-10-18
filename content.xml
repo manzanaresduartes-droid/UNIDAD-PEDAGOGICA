@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1791040391601</value>
+    <value>1792350729122</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -122,71 +122,10 @@
   <odePagStructures>
     <odePagStructure>
       <odePageId>fdc11417-77c3-4469-9ef9-723e9b6c9419</odePageId>
-      <odeBlockId>block-muqkkt20-t8k8vafri</odeBlockId>
-      <blockName>1</blockName>
-      <iconName>competencies</iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>fdc11417-77c3-4469-9ef9-723e9b6c9419</odePageId>
-          <odeBlockId>block-muqkkt20-t8k8vafri</odeBlockId>
-          <odeIdeviceId>idevice-1790921763863-j2x3vtlic</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p style="text-align: center;">  </p>
-<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif;"></span><strong><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Vinculación del tema con las líneas de investigación, políticas y estrategias educativas   </span></strong><br /><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">El tema “Uso del simulador virtual PhET como estrategia didáctica para el desarrollo de la Unidad VI: Gravitación Universal, en la asignatura de Física” se relaciona principalmente con la Línea CED-1: Educación para el Desarrollo, específicamente con la Sublíneas CED-1.4: Experiencias exitosas en contextos escolares, comunitarios e intersectoriales, porque propone una estrategia didáctica para fortalecer el aprendizaje de la Física mediante el uso de PhET. También presenta una relación complementaria con la Línea CNE-3: Aplicaciones de las ciencias exactas y la Sublíneas CNE-3.2: Física Aplicada, debido a que el simulador se utiliza para abordar contenidos relacionados con la Gravitación Universal y las Leyes de Kepler.</span></p>
-<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Al mismo tiempo, la propuesta se vincula con la Política y Agenda de Investigación e Innovación del Sistema Educativo Nacional, también con el Lineamiento 1: Institucionalización de la investigación e innovación, al integrar un recurso tecnológico en el proceso educativo y relacionarlo con el desarrollo curricular.</span></p>
-<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Por otra parte, el tema se relación con el Plan Nacional de Lucha Contra la Pobreza y para el Desarrollo Humano 2022-2026 principalmente con el Lineamiento III: Desarrollo de los Talentos Humanos para el Desarrollo Nacional desde el Sistema Nacional de Educación, especialmente con las acciones dirigidas al fortalecimiento de una educación de calidad y al buen uso de la tecnología educativa. El empleo de PhET permite incorporar recursos digitales al aprendizaje de la Física, favoreciendo el desarrollo de capacidades científicas y tecnológicas en los estudiantes.</span></p>
-<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Finalmente, la propuesta se relaciona con la Estrategia Nacional de Educación “Bendiciones y Victorias” 2024-2026, porque integra ciencia, tecnología, investigación e innovación en el proceso educativo. El uso de PhET permite desarrollar actividades en las que los estudiantes pueden observar, explorar y analizar fenómenos físicos, constituyendo una aplicación de la innovación pedagógica en la enseñanza de la Física</span></p>
-<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif;"> </span><br /><span style="font-family: 'times new roman', times, serif;"></span><span style="font-family: 'times new roman', times, serif;"></span></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790921763863-j2x3vtlic","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">  </p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"></span><strong><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Vinculación del tema con las líneas de investigación, políticas y estrategias educativas   </span></strong><br /><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">El tema “Uso del simulador virtual PhET como estrategia didáctica para el desarrollo de la Unidad VI: Gravitación Universal, en la asignatura de Física” se relaciona principalmente con la Línea CED-1: Educación para el Desarrollo, específicamente con la Sublíneas CED-1.4: Experiencias exitosas en contextos escolares, comunitarios e intersectoriales, porque propone una estrategia didáctica para fortalecer el aprendizaje de la Física mediante el uso de PhET. También presenta una relación complementaria con la Línea CNE-3: Aplicaciones de las ciencias exactas y la Sublíneas CNE-3.2: Física Aplicada, debido a que el simulador se utiliza para abordar contenidos relacionados con la Gravitación Universal y las Leyes de Kepler.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Al mismo tiempo, la propuesta se vincula con la Política y Agenda de Investigación e Innovación del Sistema Educativo Nacional, también con el Lineamiento 1: Institucionalización de la investigación e innovación, al integrar un recurso tecnológico en el proceso educativo y relacionarlo con el desarrollo curricular.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Por otra parte, el tema se relación con el Plan Nacional de Lucha Contra la Pobreza y para el Desarrollo Humano 2022-2026 principalmente con el Lineamiento III: Desarrollo de los Talentos Humanos para el Desarrollo Nacional desde el Sistema Nacional de Educación, especialmente con las acciones dirigidas al fortalecimiento de una educación de calidad y al buen uso de la tecnología educativa. El empleo de PhET permite incorporar recursos digitales al aprendizaje de la Física, favoreciendo el desarrollo de capacidades científicas y tecnológicas en los estudiantes.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Finalmente, la propuesta se relaciona con la Estrategia Nacional de Educación “Bendiciones y Victorias” 2024-2026, porque integra ciencia, tecnología, investigación e innovación en el proceso educativo. El uso de PhET permite desarrollar actividades en las que los estudiantes pueden observar, explorar y analizar fenómenos físicos, constituyendo una aplicación de la innovación pedagógica en la enseñanza de la Física</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif;\"> </span><br /><span style=\"font-family: 'times new roman', times, serif;\"></span><span style=\"font-family: 'times new roman', times, serif;\"></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>fdc11417-77c3-4469-9ef9-723e9b6c9419</odePageId>
       <odeBlockId>block-mukgoxv9-qqq0zk33n</odeBlockId>
-      <blockName>2</blockName>
+      <blockName>1</blockName>
       <iconName>activity</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -240,9 +179,9 @@
     <odePagStructure>
       <odePageId>fdc11417-77c3-4469-9ef9-723e9b6c9419</odePageId>
       <odeBlockId>block-mukh1pks-d8w2s4oyk</odeBlockId>
-      <blockName>3</blockName>
+      <blockName>2</blockName>
       <iconName>activity</iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -315,12 +254,12 @@
 <odeNavStructure>
   <odePageId>page-muilki9k-ehqkc2o05</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Tema: Uso del simulador virtual PhET como estrategia didáctica para el desarrollo de la Unidad VI: Gravitación Universal, “Fuerza que impulsa y sostiene al universo”, en la asignatura de Física</pageName>
+  <pageName>Tema</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Tema: Uso del simulador virtual PhET como estrategia didáctica para el desarrollo de la Unidad VI: Gravitación Universal, “Fuerza que impulsa y sostiene al universo”, en la asignatura de Física</value>
+      <value>Tema</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -344,17 +283,137 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value></value>
+      <value>Tema</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muilki9k-ehqkc2o05</odePageId>
+      <odeBlockId>block-mve7nk4y-sptckcluy</odeBlockId>
+      <blockName></blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muilki9k-ehqkc2o05</odePageId>
+          <odeBlockId>block-mve7nk4y-sptckcluy</odeBlockId>
+          <odeIdeviceId>idevice-1792351245486-nnfb71613</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"></span></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">TEMA</span></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Uso del simulador virtual PhET como estrategia didáctica para el desarrollo de la Unidad VI: Gravitación Universal, “Fuerza que impulsa y sostiene al universo”, en la asignatura de Física</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792351245486-nnfb71613","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\"></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">TEMA</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Uso del simulador virtual PhET como estrategia didáctica para el desarrollo de la Unidad VI: Gravitación Universal, “Fuerza que impulsa y sostiene al universo”, en la asignatura de Física</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mve7eyb1-w5los87pj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea de Investigación </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea de Investigación </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mve7eyb1-w5los87pj</odePageId>
+      <odeBlockId>block-mve7f00h-z8sshoh46</odeBlockId>
+      <blockName></blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mve7eyb1-w5los87pj</odePageId>
+          <odeBlockId>block-mve7f00h-z8sshoh46</odeBlockId>
+          <odeIdeviceId>idevice-1792350846160-t6ivz0d9u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Línea de Investigación Ciencias de la Educación según UNAN-Managua</span></strong></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><strong>Línea CED-1:</strong> Educación para el Desarrollo</span></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><strong>Sublínea CED-1.4:</strong> Experiencias exitosas en contextos escolares, comunitarios e intersectoriales. </span></p>
+<p style="text-align: center;"><strong><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Política y Agenda de Investigación e Innovación del Sistema Educativo Nacional 2025_2027</span></strong></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><strong>Línea 2.</strong> Fortalecimiento del talento humano para la investigación e innovación</span></p>
+<p style="text-align: center;"><strong><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Plan Nacional de Lucha Contra la Pobreza y para el Desarrollo Humano 2022-2026</span></strong></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">El tema de este trabajo tiene relación con las siguientes estrategias del Plan Nacional de Lucha Contra la Pobreza y para el Desarrollo Humano:</span></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><strong>Lineamiento III: </strong>Desarrollo de los Talentos Humanos para el Desarrollo Nacional desde el Sistema Nacional de Educación</span></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"> Calidad educativa e innovación pedagógica.</span></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"> Educación inclusiva y atención a la diversidad.</span></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Uso e integración de tecnologías en la enseñanza.</span></p>
+<p style="text-align: center;"><strong><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Política y Agenda de Investigación e Innovación del Sistema Educativo</span></strong></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">El tema tiene relación con los siguientes aspectos de la política y agenda de investigación del Sistema Educativo Nacional:</span></p>
+<p style="text-align: center;"><strong><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Lineamientos y acciones estratégicas </span></strong></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;">Fortalecimiento del talento humano para la investigación e innovación. </span></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"> Gestión, calidad y difusión del conocimiento.</span></p>
+<p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792350846160-t6ivz0d9u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Línea de Investigación Ciencias de la Educación según UNAN-Managua</span></strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\"><strong>Línea CED-1:</strong> Educación para el Desarrollo</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\"><strong>Sublínea CED-1.4:</strong> Experiencias exitosas en contextos escolares, comunitarios e intersectoriales. </span></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Política y Agenda de Investigación e Innovación del Sistema Educativo Nacional 2025_2027</span></strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\"><strong>Línea 2.</strong> Fortalecimiento del talento humano para la investigación e innovación</span></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Plan Nacional de Lucha Contra la Pobreza y para el Desarrollo Humano 2022-2026</span></strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">El tema de este trabajo tiene relación con las siguientes estrategias del Plan Nacional de Lucha Contra la Pobreza y para el Desarrollo Humano:</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\"><strong>Lineamiento III: </strong>Desarrollo de los Talentos Humanos para el Desarrollo Nacional desde el Sistema Nacional de Educación</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\"> Calidad educativa e innovación pedagógica.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\"> Educación inclusiva y atención a la diversidad.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Uso e integración de tecnologías en la enseñanza.</span></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Política y Agenda de Investigación e Innovación del Sistema Educativo</span></strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">El tema tiene relación con los siguientes aspectos de la política y agenda de investigación del Sistema Educativo Nacional:</span></p>\n<p style=\"text-align: center;\"><strong><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Lineamientos y acciones estratégicas </span></strong></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\">Fortalecimiento del talento humano para la investigación e innovación. </span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\"> Gestión, calidad y difusión del conocimiento.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: 'times new roman', times, serif; font-size: 12pt;\"></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
   <odePageId>page-muqkvw2m-1iw452iqs</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Introducción</pageName>
-  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -454,7 +513,7 @@
   <odePageId>page-muqkyf2k-c7bui7als</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Objetivo</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -552,7 +611,7 @@
   <odePageId>page-muijxn9l-j26xgkrvx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Planteamiento del problema</pageName>
-  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -649,7 +708,7 @@
   <odePageId>page-muijzuxd-onaa9zdw9</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Justificación</pageName>
-  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -746,7 +805,7 @@
   <odePageId>page-mukbp6bs-xqfrvzmf5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Fundamento Teóricos</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -1344,7 +1403,7 @@
   <odePageId>page-mukdalcl-1xg43ipmn</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Planificación de la unidad didáctica</pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2515,7 +2574,7 @@
   <odePageId>page-mukfzsu7-f7qjfztne</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName> Referente disciplinar</pageName>
-  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2631,7 +2690,7 @@
   <odePageId>page-mukg3x8g-62jdpay31</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Referente metodológico</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2737,7 +2796,7 @@
   <odePageId>page-mukg9908-flh3rl6ws</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Descripción fundamentada de las estrategias de la unidad didáctica</pageName>
-  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2859,7 +2918,7 @@
   <odePageId>page-mukgne91-7rabwdvqy</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Conclusión</pageName>
-  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
